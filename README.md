@@ -13,7 +13,7 @@ The light module itself
 
 #### BOM
 1. Custom
-    * Price total: 373.871
+    * Price total: 431.861
     * Assembly time total: 
     * Assembly cost: 
     1. Electronics
@@ -45,7 +45,7 @@ The light module itself
             * price: 1.842/m
             * Vendor: [... online? ...]
     1. Plastic
-    * Price total: (57.99/22.74)
+    * Price total: 57.99
         1. Apollo Enclosure Cooler Cover [(P)MPLA000000084.2]
         ![prev](doc/img/1b978f1a-38b5-4dd9-8d30-1f14169f254b_220px.png)
             * qty: 1
