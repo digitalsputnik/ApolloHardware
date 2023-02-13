@@ -6,6 +6,7 @@ Full Assembly of a set with a delivery within 2h of driving for XXX USD?
 
 ### Bag
 Will use DS Voyager 2ft Bag (link to webstore?)
+* Price: 36.02683
 
 ### Apollo 1 Lamp Head
 The light module itself
@@ -44,7 +45,7 @@ The light module itself
             * price: 1.842/m
             * Vendor: [... online? ...]
     1. Plastic
-    * Price total: 26.88
+    * Price total: (57.99/22.74)
         1. Apollo Enclosure Cooler Cover [(P)MPLA000000084.2]
             * qty: 1
             * price: 17.16/(7.47)
@@ -55,11 +56,48 @@ The light module itself
             * price: 9.72/(3.16)
             * print [2h6m / 1.36 / 1.8] 
             * Vendor: Hubs [FDM]
+        1. Apollo Enclosure Cooler Grill P2 [(P)MPLA000000095.2]
+            * qty: 1
+            * price: 10.04/(4.41)
+            * print [2h57m / 1.71 / 2.7] 
+            * Vendor: Hubs [FDM]
+        1. Apollo Enclosure Lens Cover P2 [(P)MPLA000000093.2]
+            * qty: 1
+            * price: 12.96/(5.21)
+            * print [3h14m / 2.11 / 3.1] 
+            * Vendor: Hubs [FDM]
+        1. Apollo Enclosure Lens Cover Lens Frame
+            * qty: 1
+            * price: 2.75/(1.47)
+            * print [55m / 0.57 / 0.9] 
+            * Vendor: Hubs [FDM]
+        1. 16mm Internal Thread Locking End-Cap P2 [(P)MPLA000000138]
+            * qty: 8
+            * price: 0.67/(0.3475)
+            * print [2h4m / 0.98 / 1.8] 
+            * Vendor: Hubs [FDM]
+        1. Buttons part
+        1. BUC module support
 1. Purchase
     1. Metal
     1. Plastic
     1. Part
-    1. Fastener
+    * Price total: (14.85)
+        1. be quiet! Pure Wings 2 92mm, BL045, Cooling Fan
+            * qty: 1
+            * Price: 14.85
+            * Link: [amazon](https://www.amazon.com/quiet-Case-Fan-Cooling-BL045/dp/B00IOIKG68)
+        1. Lenses
+            * qty: 16
+            * Price:
+            * Link: [amazon](https://www.amazon.com/)
+        1. Connector
+            * qty: 16
+            * Price:
+            * Link: [amazon](https://www.amazon.com/)
+    3. Fastener
+        1. M6
+        2. M4
 
 ### Apollo 1 Screen Module
 ESP32 Based 320x240 RGB screen used as UI for the light
