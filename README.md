@@ -93,13 +93,13 @@ The light module itself
             * qty: 1
             * Price: 14.85
             * Link: [amazon](https://www.amazon.com/quiet-Case-Fan-Cooling-BL045/dp/B00IOIKG68)
-        1. Lenses
+        1. 15deg RGBW LED lens (Ledlink Optics Inc. pn: LL01ED-AFD15L06)
             * qty: 16
-            * Price:
-            * Link: [amazon](https://www.amazon.com/)
+            * Price: 0.55962
+            * Link: [mouser](https://www.mouser.ee/ProductDetail/LedLink-Optics/LL01ED-BCQ15L06?qs=ZXBb0xZ9WeBpCjGcClVqDQ%3D%3D)
         1. Connector
-            * qty: 16
-            * Price:
+            * qty: 1
+            * Price: 
             * Link: [amazon](https://www.amazon.com/)
     3. Fastener
         1. M6
