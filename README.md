@@ -40,13 +40,13 @@ The light module itself
         1. LED Cooler [(M)SPPS000000002.1]
             * qty: 1
             * price: 167.77
-            * Manufacturer: Weerg
+            * Manufacturer: Hubs [CNC]
             * Documnation: [add link]
             * How to order guide: [add link]
         1. Controller Cooler (P2) [(M)SPPS000000003.1]
             * qty: 1
-            * price: 81.90
-            * Manufacturer: Weerg
+            * price: 42.39.90
+            * Manufacturer: Hubs [CNC]
             * Documnation: [add link]
             * How to order guide: [add link]
         1. 16mm Al Pipe 16x (Wall=1.5)
@@ -56,6 +56,21 @@ The light module itself
             * Documnation: [add link]
             * How to order guide: [add link]
     1. Plastic
+    * Price total: 26.88
+        1. Apollo Enclosure Cooler Cover [(P)MPLA000000084.2]
+            * qty: 1
+            * price: 17.16/(7.47)
+            * print [4h35m / 3.42 / 4.05] 
+            * Vendor: Hubs [FDM]
+            * Documnation: [add link]
+            * How to order guide: [add link] 
+        1. Apollo Enclosure Antenna Holder [(P)MPLA000000097.2]
+            * qty: 1
+            * price: 9.72/(3.16)
+            * print [2h6m / 1.36 / 1.8] 
+            * Vendor: Hubs [FDM]
+            * Documnation: [add link]
+            * How to order guide: [add link] 
 1. Purchase
     1. Metal
     1. Plastic
