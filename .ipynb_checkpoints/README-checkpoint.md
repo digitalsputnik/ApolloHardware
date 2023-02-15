@@ -3,6 +3,8 @@ This is the full set of source files and tools necessary to build and operate DS
 
 ## Sub Assemblies
 Full Assembly of a set with a delivery within 2h of driving for XXX USD?
+Total BOM cost: 489 / 851.41
+
 
 ### Bag
 Will use DS Voyager 2ft Bag (link to webstore?)
@@ -13,7 +15,7 @@ The light module itself
 
 #### BOM
 1. Custom
-    * Price total: 373.871
+    * Price total: 650.48
     * Assembly time total: 
     * Assembly cost: 
     1. Electronics
@@ -45,7 +47,7 @@ The light module itself
             * price: 1.842/m
             * Vendor: [... online? ...]
     1. Plastic
-    * Price total: (57.99/22.74)
+    * Price total: 69.97
         1. Apollo Enclosure Cooler Cover [(P)MPLA000000084.2]
         ![prev](doc/img/1b978f1a-38b5-4dd9-8d30-1f14169f254b_220px.png)
             * qty: 1
@@ -83,38 +85,103 @@ The light module itself
             * print [2h4m / 0.98 / 1.8] 
             * Vendor: Hubs [FDM]
         1. Buttons part
+            * qty: 1
+            * price: 0.99/(0.52)
+            * print [0h24m / 0.07 / 0.45]
+            * Vendor: Hubs [FDM tPU]
         1. BUC module support
+            * qty: 1
+            * price: 0.99/(0.5)
+            * print []
+            * Vendor: Hubs [FDM tPU]
+        1. Apollo Encolusre Lens Protection Glass [(P)MPLA000000081]
+            * qty: 1
+            * price: 2.90
+            * print
+            * Vendor: tba
+        1. Lens Mount System
+            * qty: 1
+            * price: 10.00 (Currently little under 50)
 1. Purchase
-    1. Metal
-    1. Plastic
+   * Total: 43.74
     1. Part
-    * Price total: (14.85)
+    * Price total: 37.94
         1. be quiet! Pure Wings 2 92mm, BL045, Cooling Fan
             * qty: 1
             * Price: 14.85
             * Link: [amazon](https://www.amazon.com/quiet-Case-Fan-Cooling-BL045/dp/B00IOIKG68)
-        1. Lenses
+        1. Lens XM-L 15 degrees [5900000141]
             * qty: 16
-            * Price:
+            * Price: 0.56
+        1. Switchcraft DC jack 2.5mm center pin
+            * qty: 1
+            * Price: 2.97
             * Link: [amazon](https://www.amazon.com/)
-        1. Connector
-            * qty: 16
-            * Price:
-            * Link: [amazon](https://www.amazon.com/)
-    3. Fastener
+        1. Coaxial Cable Assembly, SMA Bulkhead Jack, U.FL Plug, 90°, 100 mm
+            * qty: 1
+            * Price: 6.19
+        1. WiFi Antenna
+            * qty: 1
+            * Price: 4.97
+    1. Fastener
+       * Total: 5.80
         1. M6
-        2. M4
+           * Total: 3.00
+            1. Nut M6 DIN934
+                * qty: 8
+                * Price: .1
+            1. Steel M6 127mm
+                * qty: 4
+                * Price: 0.55
+        1. M4
+           * Total: 0.40
+            1. Bolt M4x40 ISO14580
+                * qty: 4
+                * Price: .1
+        1. M3
+           * Total: 2.4
+            1. Bolt M3x16 ISO14581
+                * qty: 4
+                * Price: .1
+            1. Bolt M3x6 ISO14580
+                * qty: 16
+                * Price: .1
+            1. Space M3x8
+                * qty: 4
+                * Price: .1
 
 ### Apollo 1 Screen Module
 ESP32 Based 320x240 RGB screen used as UI for the light
+#### BOM
+1. Custom
+    * Price total: 124.89
+    * Assembly time total: 
+    * Assembly cost: 
+    1. Electronics
+        * Price total: 
+        1. WT32 SC01
+            * qty: 1
+            * Price: 44.90
+            * Manufacturer: Seedstudio
+        1. M5 Encoder
+            * qty: 1
+            * Price: 8.90
+        1. Apollo Screen Module Controller
+            * qty: 1
+            * Price: 52.09
+        1. TiMo Module
+            * qty: 1
+            * Price: 19.00
+    1. Plastics
 
 ### Apollo 1 Modular Yoke
+90.00
 
 ### Apollo 1 Battery Plate
+90.00
 
 ### Apollo 1 AC/DC
-
-### WiFi Antenna
+21.00
 
 ### Firmware
 Stripped down version of the current hardware keeping only renderer and i2c interface
